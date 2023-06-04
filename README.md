@@ -2,6 +2,19 @@
 
 node serve 样例
 
+开发环境运行
+~~~shell
+npm run dev
+~~~
+
+生成环境运行
+~~~shell
+npm run serve
+~~~
+
+
+
+
 
 - [connect-history-api-fallback](https://www.npmjs.com/package/connect-history-api-fallback): 解决vue中history模式路由问题
 - [cookie-parser](https://www.npmjs.com/package/cookie-parser): 解析cookie
